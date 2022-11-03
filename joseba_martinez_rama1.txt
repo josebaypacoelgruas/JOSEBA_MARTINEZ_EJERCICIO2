@@ -1,3 +1,7 @@
 otra vez utilizo el comando nano para crear este archivo
 
+<<<<<<< HEAD
 añadiendo lineas para el ejercicio 8
+=======
+añado una nueva linea para la ariketa 7
+>>>>>>> joseba_martinez_rama
