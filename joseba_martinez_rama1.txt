@@ -1,1 +1,3 @@
 otra vez utilizo el comando nano para crear este archivo
+
+añado una nueva linea para la ariketa 7
